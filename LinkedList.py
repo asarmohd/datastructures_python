@@ -75,19 +75,5 @@ class List:
             else:
                 preNode = currentNode
                 currentNode = currentNode.getNext()
-                
-        
-            
-         
-        
-        
-cool = List()
-cool.add(10)
-cool.add(20)
-cool.add(20)
-cool.add(20)
-cool.add(20)
-cool.add(30)
-print(cool.size())
-        
+
 
